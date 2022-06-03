@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rxptr
-- 👀 I’m interested in Software Design and Low level coding
+- 👀 I’m interested in Software Design, Enterprise applications and Low level coding
 - 🌱 I’m currently learning Zig
 
 <!---
